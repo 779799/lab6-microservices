@@ -53,3 +53,4 @@ by a PR so other fellow can try it.
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
 |     |           |      |             |       |
+| 779799 | Binhui Chen Zhou | [Report](https://github.com/779799/lab6-microservices/blob/test/report.md) |             |       |
